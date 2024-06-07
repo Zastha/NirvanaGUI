@@ -1,0 +1,5 @@
+Nombre,Apellido,Nacionalidad,Edad,Género,Textos
+Rene,Zazueta,Mexicano,25,Hombre,"[{'Video': 'Video 2', 'sentiment_prompt': 'a ver que rollo'}, {'Video': 'Video 3', 'sentiment_prompt': 'Probando este'}]"
+Video,sentiment_prompt
+Video 2,a ver que rollo
+Video 3,Probando este

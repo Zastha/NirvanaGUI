@@ -1,0 +1,8 @@
+Nombre,Apellido,Nacionalidad,Edad,Género
+Rafael,Hernandez,Mexicano,29,Hombre
+Video,Start Time,End Time,sentiment_prompt
+Video 1,2024-06-06 18:10:11,,
+Neutral Video 1,2024-06-06 18:10:21,2024-06-06 18:10:26,
+Video 2,2024-06-06 18:10:26,2024-06-06 18:10:31,Probando Texto
+Neutral Video 2,2024-06-06 18:10:39,2024-06-06 18:10:44,
+Video 3,2024-06-06 18:10:44,2024-06-06 18:10:49,Esta es una prueba

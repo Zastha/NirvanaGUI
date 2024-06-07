@@ -1,0 +1,8 @@
+Nombre,Apellido,Nacionalidad,Edad,Género
+Valeria,Nova,Mexican,29,Hombre
+Video,Start Time,End Time,sentiment_prompt
+Video 1,2024-06-07 12:30:54,,
+Neutral Video 1,2024-06-07 12:31:04,2024-06-07 12:31:09,
+Video 2,2024-06-07 12:31:09,2024-06-07 12:31:14,I felt sad
+Neutral Video 2,2024-06-07 12:31:29,2024-06-07 12:31:34,
+Video 3,2024-06-07 12:31:34,2024-06-07 12:31:39,I felt happy

@@ -1,0 +1,8 @@
+Nombre,Apellido,Nacionalidad,Edad,Género
+Nancy,Caro,Mexicano,30,Mujer
+Video,Start Time,End Time,sentiment_prompt
+Video 1,2024-06-06 17:51:47,,
+Neutral Video 1,2024-06-06 17:51:58,2024-06-06 17:52:03,
+Video 2,2024-06-06 17:52:03,2024-06-06 17:52:08,Wasa ma my
+Neutral Video 2,2024-06-06 17:52:16,2024-06-06 17:52:21,
+Video 3,2024-06-06 17:52:21,2024-06-06 17:52:26,Bro wata

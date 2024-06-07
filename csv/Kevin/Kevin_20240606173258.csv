@@ -1,0 +1,5 @@
+Nombre,Apellido,Nacionalidad,Edad,Género,Textos,Video_Start_Times,Video_End_Times
+Kevin,Tapia,Mexicano,25,Hombre,"[{'Video': 'Video 2', 'sentiment_prompt': 'El Pepe'}, {'Video': 'Video 3', 'sentiment_prompt': 'My man'}]","['2024-06-06 17:32:03', '2024-06-06 17:32:13', '2024-06-06 17:32:18', '2024-06-06 17:32:40', '2024-06-06 17:32:45']","['', '2024-06-06 17:32:18', '2024-06-06 17:32:23', '2024-06-06 17:32:45', '2024-06-06 17:32:50']"
+Video,sentiment_prompt
+Video 2,El Pepe
+Video 3,My man
